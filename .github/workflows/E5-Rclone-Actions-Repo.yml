@@ -58,8 +58,8 @@ jobs:
 
       - name: Commit config #提交配置文件
         run: |
-         git config --global user.email "office@chirmyram.top"
-         git config --global user.name "ChirmyRam"
+         git config --global user.email "2552724929@qq.com"
+         git config --global user.name "zhui177"
          git add .
          git commit -am "new rclone config"
          git push
